@@ -15,7 +15,7 @@
   \******************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("console.log(\"Hello!\");\nvar moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\");\nvar datetime = moment().format('dddd, MMM Do, YYYY, h:mm:ss a');\nconsole.log(datetime);\nvar firstName = \"Josh\";\nvar lastName = \"Yee\";\nconsole.log(\"Hi my name is \".concat(firstName, \" \").concat(lastName));\n\n//# sourceURL=webpack://modern-javascript/./index.js?");
+eval("console.log(\"Hello!\");\nvar moment = __webpack_require__(/*! moment */ \"./node_modules/moment/moment.js\");\nvar datetime = moment().format('dddd, MMM Do, YYYY, h:mm:ss a');\nconsole.log(datetime);\nvar firstName = \"Jason\";\nvar lastName = \"Verett\";\nconsole.log(\"Hi my name is \".concat(firstName, \" \").concat(lastName));\nconsole.log(7 * 99);\n\n//# sourceURL=webpack://modern-javascript/./index.js?");
 
 /***/ }),
 
